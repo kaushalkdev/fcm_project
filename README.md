@@ -1,4 +1,4 @@
-# fcm_app
+# fcm_flutter_app
 
 A flutter application that demonstrate notifications.
 
