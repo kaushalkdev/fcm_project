@@ -1,0 +1,26 @@
+name: fcm_app
+description: A flutter application that demonstrate notifications.
+
+publish_to: "none"
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.0
+  firebase_messaging: ^7.0.3
+  firebase_auth: ^0.18.3
+  cloud_firestore: ^0.14.3
+  google_sign_in: ^4.5.6
+  flutter_local_notifications: ^3.0.1+4
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true

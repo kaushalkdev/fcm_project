@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "798033847784",
+    "firebase_url": "https://test-a57b0.firebaseio.com",
+    "project_id": "test-a57b0",
+    "storage_bucket": "test-a57b0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:798033847784:android:87a22db54b18f44b63b05d",
+        "android_client_info": {
+          "package_name": "com.kaushal.fcm_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "798033847784-08hf8m954l2ba598t1e0q1fiebic3d77.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDojWsNP6Jh0x6mlfoG5ojEPp5LFKXeJDc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "798033847784-08hf8m954l2ba598t1e0q1fiebic3d77.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
